@@ -11,3 +11,8 @@ http://blacktechdiva.com
 
 ![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
 http://feeds.feedburner.com/BlackTechDiva
+
+### Barnaby Skinner
+[Twitter](https://twitter.com/barjack)
+
+[Website](http://barnabyskinner.com/)
